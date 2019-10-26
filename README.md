@@ -4,7 +4,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -24,8 +23,9 @@ Project uses:
 ## Features
 
 * Virtual machines creation
+* Disk image VDI format
 * Cloudinit OS configuration
-* Port forwarding into machines
+* Forwards port 222? to machines
 
 ## Status
 
