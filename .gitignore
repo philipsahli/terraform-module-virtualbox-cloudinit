@@ -1,0 +1,7 @@
+.terraform
+*.iso
+*.vdi
+seedconfig
+terraform.tfstate*
+terraform-provider-*
+vm*/
