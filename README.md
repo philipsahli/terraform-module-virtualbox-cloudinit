@@ -33,7 +33,7 @@ Project is: _in progress_
 
 ## Usage
 
-See also [examples](github.com/philipsahli/terraform-module-virtualbox-cloudinit) folder.
+See also [examples](examples/) folder.
 
 ### Module
 
